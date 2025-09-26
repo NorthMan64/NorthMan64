@@ -1,4 +1,5 @@
-Hey, I’m @NorthMan64. I'm a student at CVUT FIT specialization in Software engineering (web development).
+Hey, I’m @NorthMan64. I was a student at CVUT FIT specialization in Software engineering (web development). Didn't get to finishing my degree. Now I work a a Software Engineer at NETWORG, company specializing in MS Power Apps development.
+
 Currently enjoying working on my side projects pretaining to genetic algortihms, AI, ecosystems, and such.
 
 <!---
